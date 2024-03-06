@@ -1,6 +1,13 @@
 # RealTimeDanbooruCopy
 if u can use 'e-mail' anytime anywhere sync 'n' upload to danbooru.
 
+#Whet Language Bset?
+
+![image](https://github.com/cultureBomb/realTimeDanbooruCopy/assets/41655930/c8f8a809-9063-46ae-ba84-f691e6079a1f)
+
+https://twitter.com/172cm172cm172cm/status/1764569838725583084
+
+
 # Donate Welcome
 
 MonaCoin💱💰"（　´∀｀）"
